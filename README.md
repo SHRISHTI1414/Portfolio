@@ -7,7 +7,6 @@ Visit Portfolio( )
 
 🛠️ Built With
 - HTML, CSS, JavaScript
-- React (or relevant framework)
 - Git, VS Code
 
  📸 Features
@@ -16,8 +15,6 @@ Visit Portfolio( )
 - Contact Form
 
  
-📄 License
-MIT License
 
 ⭐️ Star the repo if you like it!
 
